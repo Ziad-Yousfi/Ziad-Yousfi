@@ -52,7 +52,7 @@ A carpooling platform designed for university students — matching drivers and 
 ### 📊 [SmartTender](https://github.com/Ziad-Yousfi/smarttender) — Tender Intelligence Tool
 > `Python` · `Streamlit` · `NLP`
 
-Built during my internship at **ONICL**, SmartTender automates the analysis and parsing of public tenders. It uses NLP to extract key fields and helps decision-makers move faster through procurement noise.
+SmartTender automates the analysis and parsing of public tenders. It uses NLP to extract key fields and helps decision-makers move faster through procurement noise.
 
 ---
 
