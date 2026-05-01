@@ -101,10 +101,9 @@ My lab setup: **Kali Linux** + Metasploit + Nmap + whatever the target deserves.
 
 ## 📚 Background & Experience
 
-- 🎓 **EMSI** — CS & Networks Engineering (2023–2026)
-- 🏢 **ONICL** — Internship (developed SmartTender)
+- 🎓 **EMSI** — CS & Networks Engineering (2023–2028)
+- 🏢 **ONICL** — Internship
 - 🤝 **Collaborated** with [@JihadMouabbad](https://github.com/JihadMouabbad) on shared dev projects
-- 🌍 **Explored** global volunteer opportunities through **AIESEC** (Netherlands, Malaysia, Indonesia)
 
 ---
 
