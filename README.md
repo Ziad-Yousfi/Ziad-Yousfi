@@ -13,7 +13,7 @@
 
 **CS & Networks Engineering Student · Security Enthusiast · Builder of Things**
 
-*Morocco 🇲🇦 — Expected graduation: June 2026 @ EMSI*
+*Morocco 🇲🇦 —  @ EMSI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad%20Yousfi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziadyousfi/)
 [![GitHub followers](https://img.shields.io/github/followers/Ziad-Yousfi?label=Follow&style=flat-square&logo=github)](https://github.com/Ziad-Yousfi)
